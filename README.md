@@ -22,7 +22,7 @@ Class: H3 Tuesday 18:00-19:\00
 	- [Initial access σε περιβάλλον cloud μέσω Exploit Public-Facing Application](#initial-access-σε-περιβάλλον-cloud-μέσω-exploit-public-facing-application)
 	- [Δραπέτευση απο περιβάλλον docker μέσω Malicious Image](#δραπέτευση-απο-περιβάλλον-docker-μέσω-malicious-image)
 	- [Persistence μέσω Account Manipulation: SSH Authorized Keys](#persistence-μέσω-account-manipulation-ssh-authorized-keys)
-	- [## Data from Information Repositories: Code Repositories](#-data-from-information-repositories-code-repositories)
+	- [Data from Information Repositories: Code Repositories](#data-from-information-repositories-code-repositories)
 	- [Μεταφορά και υποκλοπή δεδομένων (Transfer Data to Cloud Account/Data from Information Repositories: Code Repositories)](#Μεταφορά-και-υποκλοπή-δεδομένων-(Transfer-Data-to-Cloud-Account/Data-from-Information-Repositories:-Code-Repositories))
 	- [Αντίμετρα και η χρήση ενός EDR solution](#Αντίμετρα-και-η-χρήση-ενός-EDR-solution)
 	- [Demo](#Demo)
